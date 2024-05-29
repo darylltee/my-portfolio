@@ -12,20 +12,20 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "gorka@iand.dev",
-  title: "*Hi*, I’m Gorka ",
+  mail: "daryll.tee@gmail.com",
+  title: "*Hi*, I’m Daryll ",
   profile: "/profile-logo.webp",
   description:
-    "**IT** System Technician actively transitioning towards a more **coding**-focused career. I am dedicated to honing my expertise in **B**ackend using **Python** and expanding my capabilities in **F**rontend with **NextJS** and **Astro**. Fascinated by **AI** and its potential, exploring **Machine Learning** and **LLM**'s.",
+    "**FULL STACK** Developer specializing in developing custom software solutions for desktop, mobile, and web platforms. Focused on building robust and well-established architectures using **JavaScript(react, ant design, NextJS, Nodejs)** and **.NET(Asp.net Core, DexExpress Tech, Desktop)**. Fascinated by AI and its potential, particularly in exploring Machine Learning and Large Language Models (LLMs)",
 
   socials: [
     {
       label: "Github",
-      link: "https://github.com/GRKdev",
+      link: "https://github.com/darylltee",
     },
     {
       label: "LinkedIn",
-      link: "https://www.linkedin.com/in/gorka-vilar/",
+      link: "https://www.linkedin.com/in/daryll-tee/",
     },
   ],
 };
